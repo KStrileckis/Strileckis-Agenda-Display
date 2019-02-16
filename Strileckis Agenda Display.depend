@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1538650863 source:d:\d documents\educational projects\agenda display\strileckis agenda display\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	"include/DataPack.h"
+	"include/httprip.h"
+	"switchboard.h"
+	<iomanip>
+	<ctime>
+	<chrono>
+	<unistd.h>
+
+1537397893 d:\d documents\educational projects\agenda display\strileckis agenda display\include\datapack.h
+	<iostream>
+
+1538483985 source:d:\d documents\educational projects\agenda display\strileckis agenda display\src\datapack.cpp
+	"D:\D Documents\Educational Projects\Agenda Display\Strileckis Agenda Display\include\DataPack.h"
+	<stdlib.h>
+
+1537527675 source:d:\d documents\educational projects\agenda display\strileckis agenda display\test.cpp
+	<windows.h>
+	<wininet.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock.h>
+	<shellapi.h>
+	<mmsystem.h>
+
+1538483751 source:d:\d documents\educational projects\agenda display\strileckis agenda display\httprip.cpp
+	<windows.h>
+	<wininet.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<winsock.h>
+	<shellapi.h>
+	<mmsystem.h>
+
+1537385654 d:\d documents\educational projects\agenda display\strileckis agenda display\httprip.cpp
+	<windows.h>
+	<wininet.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock.h>
+	<shellapi.h>
+	<mmsystem.h>
+
+1537382215 d:\d documents\educational projects\agenda display\strileckis agenda display\include\httprip.h
+
+1538999814 source:d:\d documents\educational projects\agenda display\strileckis agenda display\switchboard.cpp
+	<iostream>
+	<stdlib.h>
+	"switchboard.h"
+
+1538999818 d:\d documents\educational projects\agenda display\strileckis agenda display\switchboard.h
+	<iostream>
+
